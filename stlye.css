@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+body {
+    background-image: url('https://img.freepik.com/vector-gratis/fondo-dia-dos-pais-dibujado-mano_23-2149490087.jpg');
+}
+img{
+    margin: auto;
+    padding: 50px; 
+}
+header {
+    text-align: center;
+    background: skyblue;
+    color: white;
+    padding: 10px 0;
+}
+h2{
+    text-align: center;
+}
+h1 {
+    margin: 0;
+}
+iframe{
+    text-align:center;
+    margin-left: 430px;
+}
+h3{
+    text-align: center;
+}
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.8em;
+    color: #555;
+}
+.s-item {
+    background-color: #e8f0fe;
+    border: 1px solid #c1d3fe;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+}
+footer {
+    margin-top: auto;
+    background: blue;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
